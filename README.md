@@ -1,4 +1,7 @@
 # fb_scaper
+# This project has been closed
+# Because of legal reasons. See link below.
+# https://www.facebook.com/robots.txt
 
 #TODO
 1. Get software to login into Facebook
